@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-CC--BY--NC--SA_4.0-lavender)](#license)
 
 
-# Pharma
+# Sceptre
 Open-Source Medical supply and therapeutics stock management software
 
 CURRENTLY BEING DEVELOPED
