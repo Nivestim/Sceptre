@@ -11,8 +11,10 @@ app.use(express.static(path.join(__dirname, '../public')));
 
 // Set up a basic route
 app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, '../public', 'index.html'));
+  res.sendFile(path.join(__dirname, '../public', 'login.html'));
 });
+
+
 
 // Start the server
 app.listen(port, () => {
