@@ -2,7 +2,7 @@
   "name": "sceptre",
   "version": "1.0.0",
   "description": "open source pharmacy stock management",
-  "main": "index.js",
+  "main": "src/private/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
